@@ -40,7 +40,7 @@ aayushUnaPortfolio/
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/aayushUnaPortfolio.git
+git clone https://github.com/mraayushpatro/portfolioAayush
 cd aayushUnaPortfolio
 ```
 
@@ -80,8 +80,8 @@ npm run preview
 
 **Aayush Una**  
 🔗 Portfolio: [#](Copy paste your portfolio link)  
-📧 Email: [your-email@example.com]  
-🐙 GitHub: [https://github.com/yourusername](https://github.com/yourusername)
+📧 Email: [mraayushpatro@gmail.com]  
+🐙 GitHub: [Aayush Una](https://github.com/mraayushpatro/)
 
 ---
 
